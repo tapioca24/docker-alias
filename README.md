@@ -6,7 +6,7 @@
 
 ```sh
 git clone git@github.com:tapioca24/docker-alias.git
-echo "source ~/INSTALL_DIR/docker-alias.sh" | sudo tee -a ~/.bashrc
+echo "source ~/INSTALL_DIR/docker-alias.sh" | sudo tee -a ~/.bash_profile
 ```
 
 的な。
